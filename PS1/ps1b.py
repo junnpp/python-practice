@@ -22,7 +22,9 @@ def dp_make_weight(egg_weights, target_weight, memo = {}):
     
     Returns: int, smallest number of eggs needed to make target weight
     """
-    # UNDERSTAND DYNAMIC PROGRAMMING WITH EASIER EXAMPLES
+
+    # start study the coding
+
 
 # EXAMPLE TESTING CODE, feel free to add more if you'd like
 if __name__ == '__main__':
